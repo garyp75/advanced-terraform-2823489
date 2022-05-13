@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "red30"
+    organization = "aliasmedia"
 
     workspaces {
       name = "cli-workspace"
